@@ -7290,10 +7290,10 @@ react-dom@16.13.1:
     prop-types "^15.6.2"
     scheduler "^0.19.1"
 
-react-hook-form@6.5.0:
-  version "6.5.0"
-  resolved "https://registry.yarnpkg.com/react-hook-form/-/react-hook-form-6.5.0.tgz#9442797f9f05644829125772b2656d3da19f732e"
-  integrity sha512-DRziWoDvmwNIwBk6tkBN/fPeCgbtYHr1tIlVVd0ihmQg9Fv+gjOs0BU0D3o7HrKDeKwDA8pnp4tuEwxe8qg9TA==
+react-hook-form@6.8.2:
+  version "6.8.2"
+  resolved "https://registry.yarnpkg.com/react-hook-form/-/react-hook-form-6.8.2.tgz#2a63b3d8578bd4f7965767ae4e205c2c24a1c5bc"
+  integrity sha512-9Xz1uz61fCMtQ0MTTnTIDqUpWWi+livCUsYcIOpUrlJXDHJ7QgDLF3wVKcmLIX727FFyGzesXkVCg8cQuRy8OQ==
 
 react-is@^16.12.0, react-is@^16.8.1:
   version "16.12.0"
